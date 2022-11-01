@@ -1,3 +1,6 @@
 [submodule "browser_environment/forum-DOM-proj"]
 	path = browser_environment/forum-DOM-proj
 	url = https://github.com/daGoodenough/forum-DOM-proj.git
+[submodule "browser_environment/music-player"]
+	path = browser_environment/music-player
+	url = https://github.com/daGoodenough/music-player.git
