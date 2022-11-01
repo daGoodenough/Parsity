@@ -1,0 +1,3 @@
+[submodule "browser_environment/forum-DOM-proj"]
+	path = browser_environment/forum-DOM-proj
+	url = https://github.com/daGoodenough/forum-DOM-proj.git
