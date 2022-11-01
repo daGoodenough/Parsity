@@ -4,3 +4,9 @@
 [submodule "browser_environment/music-player"]
 	path = browser_environment/music-player
 	url = https://github.com/daGoodenough/music-player.git
+[submodule "javascript-fundamentals/towers-of-hanoi"]
+	path = javascript-fundamentals/towers-of-hanoi
+	url = https://github.com/daGoodenough/towers-of-hanoi.git
+[submodule "javascript-fundamentals/library-modules-parsity-proj"]
+	path = javascript-fundamentals/library-modules-parsity-proj
+	url = https://github.com/daGoodenough/library-modules-parsity-proj.git
