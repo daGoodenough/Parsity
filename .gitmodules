@@ -10,3 +10,6 @@
 [submodule "javascript-fundamentals/library-modules-parsity-proj"]
 	path = javascript-fundamentals/library-modules-parsity-proj
 	url = https://github.com/daGoodenough/library-modules-parsity-proj.git
+[submodule "browser_environment/project-reddit"]
+	path = browser_environment/project-reddit
+	url = https://github.com/daGoodenough/project-reddit.git
