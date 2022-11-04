@@ -1,0 +1,11 @@
+{
+  "name": "charlie",
+  "weight": {
+    "amount": "20",
+    "unit": "kg"
+  },
+  "home": "Ben Lomond",
+  "endangered": true,
+  "food": "green beans",
+  "predators": ["cats", "squirrels", "tigers"]
+}

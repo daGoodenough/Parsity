@@ -13,3 +13,6 @@
 [submodule "browser_environment/project-reddit"]
 	path = browser_environment/project-reddit
 	url = https://github.com/daGoodenough/project-reddit.git
+[submodule "json-and-apis/bookshelf"]
+	path = json-and-apis/bookshelf
+	url = https://github.com/daGoodenough/bookshelf.git
