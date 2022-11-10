@@ -19,3 +19,6 @@
 [submodule "json-and-apis/github-api-search"]
 	path = json-and-apis/github-api-search
 	url = https://github.com/daGoodenough/github-api-search.git
+[submodule "react/react-reddit"]
+	path = react/react-reddit
+	url = https://github.com/daGoodenough/react-reddit.git
