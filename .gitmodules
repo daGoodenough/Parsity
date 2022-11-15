@@ -37,3 +37,6 @@
 [submodule "react/re-re-reddit"]
 	path = react/re-re-reddit
 	url = https://github.com/daGoodenough/re-re-reddit.git
+[submodule "json-and-apis/music-player"]
+	path = json-and-apis/music-player
+	url = https://github.com/daGoodenough/music-player.git
