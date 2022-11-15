@@ -22,3 +22,9 @@
 [submodule "react/react-reddit"]
 	path = react/react-reddit
 	url = https://github.com/daGoodenough/react-reddit.git
+[submodule "react/hooks-fun"]
+	path = react/hooks-fun
+	url = https://github.com/daGoodenough/hooks-fun.git
+[submodule "react/contact-list"]
+	path = react/contact-list
+	url = https://github.com/daGoodenough/contact-list.git
