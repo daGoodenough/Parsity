@@ -28,3 +28,12 @@
 [submodule "react/contact-list"]
 	path = react/contact-list
 	url = https://github.com/daGoodenough/contact-list.git
+[submodule "react/react-tube"]
+	path = react/react-tube
+	url = https://github.com/daGoodenough/react-tube.git
+[submodule "react/react-router-fun"]
+	path = react/react-router-fun
+	url = https://github.com/daGoodenough/react-router-fun.git
+[submodule "react/re-re-reddit"]
+	path = react/re-re-reddit
+	url = https://github.com/daGoodenough/re-re-reddit.git
