@@ -40,3 +40,6 @@
 [submodule "json-and-apis/music-player"]
 	path = json-and-apis/music-player
 	url = https://github.com/daGoodenough/music-player.git
+[submodule "redux/redux-weather"]
+	path = redux/redux-weather
+	url = https://github.com/daGoodenough/redux-weather.git
